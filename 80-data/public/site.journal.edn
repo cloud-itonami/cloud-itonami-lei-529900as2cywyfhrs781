@@ -1,0 +1,5 @@
+[["six-site-1" :site/url "https://www.sixflags.com" 1 :add]
+ ["six-site-1" :site/checked-at "2026-07-18" 1 :add]
+ ["six-site-1" :site/http-status 200 1 :add]
+ ["six-site-1" :site/title "Six Flags: Theme Parks, Roller Coasters &amp; Family Fun Near You" 1 :add]
+ ["six-site-1" :site/description "Experience the excitement at Six Flags! Explore parks, rides, events &amp; season passes. Plan your visit and grab exclusive offers online now." 1 :add]]
