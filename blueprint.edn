@@ -2,4 +2,5 @@
  :company/lei "529900AS2CYWYFHRS781"
  :company/jurisdiction "US-DE"
  :company/website "https://www.sixflags.com"
- :company/ticker "FUN (NYSE)"}
+ :company/ticker "FUN (NYSE)"
+ :itonami.blueprint/maturity :implemented}
